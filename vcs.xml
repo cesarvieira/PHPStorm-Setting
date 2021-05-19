@@ -30,9 +30,13 @@
           <option name="url" value="git@bitbucket.org:kaisarisistemas/botnet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kaisari/microsoftloja.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="Z:\home\ubuntu\projetos\novaduque" />
+    <option name="cloneParentDir" value="Z:\home\ubuntu\projetos\tradework" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
