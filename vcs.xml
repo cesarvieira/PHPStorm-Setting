@@ -38,9 +38,13 @@
           <option name="url" value="git@github.com:kaisari/emporium-amicci.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kaisari/softunico.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="Z:\home\ubuntu\projetos\novaduque" />
+    <option name="cloneParentDir" value="Z:\home\ubuntu\projetos\camargocunha" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
