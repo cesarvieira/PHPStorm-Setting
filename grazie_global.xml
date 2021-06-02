@@ -6,14 +6,5 @@
         <option value="Portuguese (Brazil)" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="JavaScript:JavaScript" />
-        <option value="com.intellij.php.grazie:PHP" />
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:TEXT" />
-      </set>
-    </option>
   </component>
 </application>
