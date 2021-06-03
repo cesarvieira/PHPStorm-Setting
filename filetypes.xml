@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="rr" type="AUTO_DETECTED" />
+      <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern="MainPanel.java" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pipenotifierpipe-c13ef77f-e835-4dde-908c-fea964284e6a" type="PLAIN_TEXT" />
