@@ -50,6 +50,10 @@
           <option name="url" value="git@github.com:kaisari/queroleiloar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kaisari/vipleiloes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="Z:\home\ubuntu\projetos\clickg2" />
