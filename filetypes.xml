@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="ConfigFabricacao" type="AUTO_DETECTED" />
       <mapping pattern="rr" type="AUTO_DETECTED" />
       <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="AUTO_DETECTED" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
