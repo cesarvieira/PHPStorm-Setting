@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\app\Models\Imovel'" />
-    <option name="defaultScopeName" value="Directory '…\app\Models\Imovel'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\app\Models\Imovel'" />
+    <option name="customScope" value="File '…\app\Http\Controllers\Integracao\ZapController.php'" />
+    <option name="defaultScopeName" value="File '…\app\Http\Controllers\Integracao\ZapController.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\app\Http\Controllers\Integracao\ZapController.php'" />
     <mask>*.js</mask>
   </component>
 </application>
