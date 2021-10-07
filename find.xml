@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\app\Exceptions\Handler.php'" />
-    <option name="defaultScopeName" value="File '…\app\Exceptions\Handler.php'" />
-    <option name="SEARCH_SCOPE" value="File '…\app\Exceptions\Handler.php'" />
+    <option name="customScope" value="File '…\app\Http\Controllers\Venda\FollowupController.php'" />
+    <option name="defaultScopeName" value="File '…\app\Http\Controllers\Venda\FollowupController.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\app\Http\Controllers\Venda\FollowupController.php'" />
     <mask>*.js</mask>
   </component>
 </application>
