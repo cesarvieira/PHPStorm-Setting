@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\app\Http\Resources\Admin\CampanhaResource.php'" />
-    <option name="defaultScopeName" value="File '…\app\Http\Resources\Admin\CampanhaResource.php'" />
+    <option name="customScope" value="File '…\resources\js\admin\components\CampanhaEdit.vue'" />
+    <option name="defaultScopeName" value="File '…\resources\js\admin\components\CampanhaEdit.vue'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\app\Http\Resources\Admin\CampanhaResource.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\resources\js\admin\components\CampanhaEdit.vue'" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
