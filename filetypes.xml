@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="rr" type="AUTO_DETECTED" />
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="AUTO_DETECTED" />
+      <mapping pattern="ConfigFabricacao" type="AUTO_DETECTED" />
+      <mapping pattern="modules/App.ts" type="AUTO_DETECTED" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env2" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="MainPanel.java" type="PLAIN_TEXT" />
+      <mapping ext="current" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="pipenotifierpipe-c13ef77f-e835-4dde-908c-fea964284e6a" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+    </extensionMap>
+  </component>
+</application>
