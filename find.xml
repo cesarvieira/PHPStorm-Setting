@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\database\migrations\app\2021_12_01_201318_add_teams_fields.php'" />
+    <option name="defaultScopeName" value="File '…\database\migrations\app\2021_12_01_201318_add_teams_fields.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\database\migrations\app\2021_12_01_201318_add_teams_fields.php'" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
